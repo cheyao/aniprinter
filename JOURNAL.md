@@ -1,22 +1,29 @@
-# Aniprinter
-
-Printer for my ani* set of hardware!
+# Aniprinter - The anime printer :3
 
 Anime printer!!! I'm gonna add some cat ears lol
 
-## Goal
+Made by: @Cyao
 
-This is going to be an anime printer, so it'll print figurines (They are always too expensive for me)
+Respository link: https://github.com/cheyao/aniprinter
 
-There must be multi color support, and cat ears on the printer
+Hours so far: 1.5h
 
-## Plan
+- [x] I have a bambu A1 mini and access to larger school printers
 
-I don't fucking know but I'll figure it out in the vacations. I never failed anything when money isn't a constraint :P
+Printer for my ani* set of hardware!
 
-- Bed slinger
-- 300x300x350mm (Figurine size :D)
-- Multicolor <- Most important
+## The plan
+
+I don't fucking know but I'll figure it out in the vacations. I never failed anything when money isn't a constraint :D
+
+1. Capable of printing figurines
+2. Multicolor!!!
+3. 310x310x310+mm
+4. Cute & colorful
+5. Have removable cat ears on it (Dad's killing me if he sees cat ears TwT)
+Extra: Be able to print some metalic filament, that would be soo cool
+
+How to source the parts cheaply? I'm buying everything from china lol
 
 ## Log
 
@@ -24,6 +31,7 @@ I don't fucking know but I'll figure it out in the vacations. I never failed any
 | ----- | ------------------------ | --------- | ------------------------------------------------------------------------------- |
 | 02/02 | Init                     | 20 min    | Yay (Including time spent later on README.md)                                   |
 | 03/02 | Finding parts in my home | 1 hour    | Fuck how did I use soo long to do this, my parts are too many and disorganised. |
+| 05/02 | Defining requirements    | 10 min    | Hmm what are my needs                                                           |
 
 # BOM
 
@@ -34,4 +42,6 @@ At home:
 
 I need:
 8x M3 screws
+1x Heatbed
+1x Nozzle?
 

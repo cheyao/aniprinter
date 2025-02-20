@@ -6,7 +6,7 @@ Made by: @Cyao
 
 Respository link: https://github.com/cheyao/aniprinter
 
-Hours so far: 25h
+Hours so far: 26h
 
 - [x] I have a bambu A1 mini and access to larger school printers
 
@@ -37,8 +37,9 @@ Currently the outline is 400mm x 410mm
 | 05/02 | Defining requirements    | 10 min    | Hmm what are my needs                                                           |
 | 16/02 | Searching parts in china | 3 hours   | Big kudos to @Anicetus for helping me :3                                        |
 | 17/02 | Searching then designing in FreeCAD  | 6.5 hours | Legit spent whole afternoon |
-| 17/02 | More parts and modeling              | 8 hours | Ahh assembly workbench is bad |
-| 17/02 | Motors                               | 6 hours | I'm getting better at this :D |
+| 18/02 | More parts and modeling              | 8 hours | Ahh assembly workbench is bad |
+| 19/02 | Motors                               | 6 hours | I'm getting better at this :D |
+| 20/02 | Clamps                               | 1 hour  | :D |
 
 ## BOM
 
@@ -59,10 +60,10 @@ At home:
 | PTFE tubes                       | 3m    | 1.2/m (0.17) | [link](https://item.taobao.com/item.htm?abbucket=1&id=815502974789&ns=1&priceTId=2100c88a17398219804387041e0932&skuId=5514534761577&spm=a21n57.1.hoverItem.4&xxc=taobaoSearch) |
 | M3 16mm bolts                    | 20x   | 1.1 for 20 (0.17) | [link](https://detail.tmall.com/item.htm?abbucket=16&id=729847299973&rn=dc1b51c7fe76c31b32c97eadb36cf85a&scene=taobao_shop&skuId=5059228621742&spm=a312a.7700824.w5003-25220709902.4.6cf06b74iXZ2vc) |
 | M3 Nuts                          | 20x   | 1.65 for 100 (0.22)| [link](https://detail.tmall.com/item.htm?id=549640610734&ns=1&priceTId=2100c89517398269510271405e0be3&skuId=5271411287015&spm=a21n57.1.item.1.7b0b523c7kkuRE&utparam=%7B%22aplus_abtest%22%3A%229dfe0dbc67b65db4274464098960304b%22%7D&xxc=ad_ztc) |
-| M5 14mm Bolts                    | 12x   | 3.1 for 20 (0.43) | [link](https://detail.tmall.com/item.htm?from=cart&id=635755541429&skuId=4555949761448&spm=a1z0d.6639537%2F202410.item.d635755541429.5d357484CFoQER |
-| T shaped M5 Nuts for 3030        | 8x    | 1.4 for 50 (0.19) | [link](https://item.taobao.com/item.htm?abbucket=1&id=720521078724&ns=1&priceTId=2100c82317398927757001065e0bf9&skuId=5192323987974&spm=a21n57.1.item.3.447f523cP1MZ65&xxc=taobaoSearch) |
-| M8 16mm Bolts                    | 4x    | 2.8 for 5 (0.38) | [link](https://detail.tmall.com/item.htm?id=635755541429&ns=1&priceTId=2100c82117398691587704143e0946&skuId=4555949761473&spm=a21n57.1.item.1.5d32523c33aMOn&utparam=%7B%22aplus_abtest%22%3A%2273bf6791a02e0efe1bff358ad3bd3b74%22%7D&xxc=ad_ztc) |
-| M8 self tapping drill bit        | 1x    | 10.6 (1.46)      | [link](https://detail.tmall.com/item.htm?_u=ie0hn178e3&id=723065054403&skuId=5028243945235&spm=a1z09.2.0.0.6c7a2e8ddWzYcF) |
+| M6 12mm Bolts                    | 40x   | 3.4 for 20 (0.45) | [link](https://detail.tmall.com/item.htm?from=cart&id=635755541429&skuId=4555949761448&spm=a1z0d.6639537%2F202410.item.d635755541429.5d357484CFoQER) |
+| M6 T-Nuts for 3030               | 40x   | 1.4 for 50 (0.19) | [link](https://item.taobao.com/item.htm?abbucket=1&id=720521078724&ns=1&priceTId=2100c82317398927757001065e0bf9&skuId=5192323987974&spm=a21n57.1.item.3.447f523cP1MZ65&xxc=taobaoSearch) |
+| L 5-hole connector for 3030      | 6x    | 5.3 (0.73) | [link](https://item.taobao.com/item.htm?abbucket=11&id=544614918944&ns=1&priceTId=2100c82d17400546772155039e0bc9&skuId=3446064654367&spm=a21n57.imgsearch.item.2.24db523cvsB3pO&xxc=taobaoSearch)
+| T 5-hole connector for 3030      | 2x    | 5.3 (0.73) | [link](https://item.taobao.com/item.htm?abbucket=11&id=544614918944&ns=1&priceTId=2100c82d17400546772155039e0bc9&skuId=3446064654367&spm=a21n57.imgsearch.item.2.24db523cvsB3pO&xxc=taobaoSearch)
 | 8mm Linear Bearing Slot          | 2x    | 2.8 (0.38) | [link](https://item.taobao.com/item.htm?abbucket=1&id=560816782190&ns=1&priceTId=2100cffc17398839466045780e0960&skuId=5739999414554&spm=a21n57.1.item.3.6376523cQQFaVi&xxc=taobaoSearch) |
 | BIGTREE SKR MINI E3 Mainboard    | 1x    | 203 (27.89)     | [link](https://item.taobao.com/item.htm?abbucket=1&id=660038613435&ns=1&priceTId=2100c89617399007846925287e0bd8&skuId=4887334024854&spm=a21n57.1.hoverItem.2&xxc=taobaoSearch) |
 | NEMA17 40mm Stepping Motor(ask for JST-XH)| 1x    | 31 (4.26)       | [link](https://detail.tmall.com/item.htm?abbucket=1&id=623601262036&ns=1&priceTId=2100c80617399538311774113e0932&skuId=4407295460327&spm=a21n57.1.item.98.9a07470eyOdAQc&utparam=%7B%22aplus_abtehttps://item.taobao.com/item.htm?spm=a1z0d.6639537/202410.item.d680885766109.2aa67484kupaVj&id=680885766109&from=cart&skuId=5450150654782st%22%3A%220b38e20f9f251698ff760dec3e12cf6f%22%7D&xxc=taobaoSearch) |
@@ -76,7 +77,7 @@ At home:
 
 - 1x mmu
 
-Current total: 66.80 USD
+Current total: 72.44 USD
 
 Buy some M4 Bolts and nuts to be safe
 

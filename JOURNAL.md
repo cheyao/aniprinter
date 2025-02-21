@@ -107,6 +107,8 @@ At home that I maybe can use:
 
 ## Pics
 18/02/2025 Heatbed: ![](https://cdn.hack.pet/slackcdn/11dc794417b947579c270e11f176daff.png)
+21/02/2025 Y axis done and half done Z: ![](https://cdn.hack.pet/slackcdn/48c60da0e7cb54b82845f4f665a12c6f.png
+)
 
 ## Links:
 - Motherboard: https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V3.0/Hardware/BTT%20E3%20SKR%20MINI%20V3.0_PIN.pdf

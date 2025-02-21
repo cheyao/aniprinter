@@ -6,7 +6,7 @@ Made by: @Cyao
 
 Respository link: https://github.com/cheyao/aniprinter
 
-Hours so far: 32.5h
+Hours so far: 36.5h
 
 - [x] I have a bambu A1 mini and access to larger school printers
 
@@ -39,9 +39,10 @@ Currently the outline is 400mm x 410mm
 | 17/02 | Searching then designing in FreeCAD  | 6.5 hours | Legit spent whole afternoon |
 | 18/02 | More parts and modeling              | 8 hours | Ahh assembly workbench is bad |
 | 19/02 | Motors                               | 6 hours | I'm getting better at this :D |
-| 20/02 | Clamps                               | 1 hour  | :D |
-| 21/02 | Making bed movable                   | 3.5 hour  | Hard... Plus just found freecad has hole feature... |
-| 22/02 | Finish Y axis                        | 3 hour  | Yay |
+| 2?/02 | Clamps                               | 1 hour  | :D |
+| 2?/02 | Making bed movable                   | 3.5 hour  | Hard... Plus just found freecad has hole feature... |
+| 2?/02 | Finish Y axis                        | 3 hour  | Yay |
+| 21/02 | Start of Z axis                      | 4 hour  | Looks nice :P |
 
 ## BOM
 

@@ -55,7 +55,6 @@ At home:
 
 | Part Name                            | Num   | Price RMB (USD) | Link |
 | ------------------------------------ | ----- | --------------- | ---- |
-| E3D V6 hotend 24V50W (远程)          | 1x    | 22.8 (3.19)  | [link](https://item.taobao.com/item.htm?abbucket=11&id=695145988184&ns=1&priceTId=2100c82717397368248025070e0bef&skuId=4971593768755&spm=a21n57.1.hoverItem.2&xxc=taobaoSearch) |
 | 310x310mm Heatbed w/ cable           | 1x    | 56.84 (7.96) | [link](https://item.taobao.com/item.htm?abbucket=1&id=640200686112&ns=1&priceTId=2100c88517397981806302575e0bf8&skuId=5297253604557&spm=a21n57.1.item.46.aeba4b7a0sKoKk&xxc=taobaoSearch) |
 | 310x310mm Plate                      | 1x    | 46 (6.44)    | [link](https://item.taobao.com/item.htm?abbucket=1&id=623211529831&ns=1&priceTId=2100c88517397981806302575e0bf8&skuId=4946961158429&spm=a21n57.1.item.7.aeba4b7a0sKoKk&xxc=taobaoSearch) |
 | 8mm Shaft holder                     | 4x    | 1.12 (0.15)  | [link](https://item.taobao.com/item.htm?abbucket=1&id=680885766109&ns=1&priceTId=2100c84717398211374122672e0c17&skuId=5450150654782&spm=a21n57.1.item.54.3ba4523cwp58Jk&xxc=taobaoSearch) |
@@ -77,7 +76,6 @@ At home:
 | T 5-hole connector for 3030      | 2x    | 5.3 (0.73) | [link](https://item.taobao.com/item.htm?abbucket=11&id=544614918944&ns=1&priceTId=2100c82d17400546772155039e0bc9&skuId=3446064654367&spm=a21n57.imgsearch.item.2.24db523cvsB3pO&xxc=taobaoSearch)
 | 8mm Linear Bearing Slot          | 2x    | 2.8 (0.38) | [link](https://item.taobao.com/item.htm?abbucket=1&id=560816782190&ns=1&priceTId=2100cffc17398839466045780e0960&skuId=5739999414554&spm=a21n57.1.item.3.6376523cQQFaVi&xxc=taobaoSearch) |
 | 8mm Linear Bearing               | 2x    | 1.08 (0.15)     | [link](https://item.taobao.com/item.htm?abbucket=1&id=596588093773&ns=1&priceTId=2100c89517402142905603273e0bfb&skuId=4150408797443&spm=a21n57.1.item.3.6c81523cVseea6&xxc=taobaoSearch) |
-| BIGTREE SKR MINI E3 Mainboard    | 1x    | 203 (27.89)     | [link](https://item.taobao.com/item.htm?abbucket=1&id=660038613435&ns=1&priceTId=2100c89617399007846925287e0bd8&skuId=4887334024854&spm=a21n57.1.hoverItem.2&xxc=taobaoSearch) |
 | NEMA17 40mm Stepping Motor       | 3x    | 12 (1.58)       | [link](https://item.taobao.com/item.htm?spm=a1z0d.6639537/202410.item.d649664531631.108f7484TbQRF0&id=649664531631&from=cart&skuId=4856259154612) |
 | NEMA17 (Type 42) Mounting Plate  | 1x    | 2.1 (0.29)      | [link](https://item.taobao.com/item.htm?abbucket=1&id=568647933856&ns=1&priceTId=undefined&skuId=4371573359258&spm=a21n57.1.item.3.7900a7fapqotT3&xxc=taobaoSearch) |
 | 2GT Timing Pulley 20T 6W 5 Inner | 1x | 0.9 (0.12) | [link](https://item.taobao.com/item.htm?id=559194333476&ns=1&priceTId=2100c89017399710705031225e0c0e&skuId=4038283182652&spm=a21n57.1.item.49.45c96591qaELJI&xxc=ad_ztc) |
@@ -88,6 +86,10 @@ At home:
 | KFL08 Lead Screw Holder          | 2x | 2.43 (0.34) | [link](https://detail.tmall.com/item.htm?abbucket=1&id=748242575487&ns=1&priceTId=2100c88917401636384956464e0c03&skuId=5330785675422&spm=a21n57.1.hoverItem.6&utparam=%7B%22aplus_abtest%22%3A%226f0e90a5689218ad92e73b63ba905599%22%7D&xxc=taobaoSearch) |
 | 380mm Linear Rail MGN9           | 1x | 4 (0.48)    | [link](https://item.taobao.com/item.htm?abbucket=1&id=675423855075&ns=1&priceTId=2100c87a17402271639367373e0c73&skuId=4856765889814&spm=a21n57.1.item.2.395f523c3EK7BY&xxc=taobaoSearch) |
 | MGN9 Block Guide                 | 1x | 1 (0.12)  | [link](https://world.taobao.com/cart/cart.htm?spm=pc_detail.29232929/evo365560b447259.1997525049.1.63c67dd6c9I9mU&from=mini&ad_id=&am_id=&cm_id=&pm_id=1501036000a02c5c3739) |
+| E3D V6 hotend 24V50W (远程)      | 1x    | 22.8 (3.19)  | [link](https://item.taobao.com/item.htm?abbucket=11&id=695145988184&ns=1&priceTId=2100c82717397368248025070e0bef&skuId=4971593768755&spm=a21n57.1.hoverItem.2&xxc=taobaoSearch) |
+| BIGTREE SKR MINI E3 Mainboard    | 1x    | 203 (27.89)     | [link](https://item.taobao.com/item.htm?abbucket=1&id=660038613435&ns=1&priceTId=2100c89617399007846925287e0bd8&skuId=4887334024854&spm=a21n57.1.hoverItem.2&xxc=taobaoSearch) |
+| 3D touch                         | 3x    | 37 (5.10) | [link](https://item.taobao.com/item.htm?abbucket=1&id=594093806947&ns=1&priceTId=undefined&skuId=4712891285230&spm=0.0.hoverItem.2&xxc=taobaoSearch)
+| Extruder                         | 1x    | 24 (3.31) | [link](https://item.taobao.com/item.htm?id=632506457890&ns=1&priceTId=2100c82017402387359824113e093b&skuId=4760552082412&spm=a21n57.1.hoverItem.5&xxc=ad_ztc)
 - 24V power
 - TFT
 
@@ -95,7 +97,7 @@ At home:
 
 Maybe ASA for 46 rmb
 
-Current total: 80.51 USD
+Current total: 83.82 USD
 
 Buy some M4 Bolts and nuts to be safe
 
@@ -113,6 +115,7 @@ At home that I maybe can use:
 18/02/2025 Heatbed: ![](https://cdn.hack.pet/slackcdn/11dc794417b947579c270e11f176daff.png)
 21/02/2025 Y axis done and half done Z: ![](https://cdn.hack.pet/slackcdn/48c60da0e7cb54b82845f4f665a12c6f.png)
 22/02/2025 Z axis also done!  ![](https://cloud-1elf02lqk-hack-club-bot.vercel.app/0image.png)
+23/02/2025 Print head assembly: ![](https://cloud-9zmpe3qgl-hack-club-bot.vercel.app/0image.png)
 
 ## Links:
 - Motherboard: https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V3.0/Hardware/BTT%20E3%20SKR%20MINI%20V3.0_PIN.pdf

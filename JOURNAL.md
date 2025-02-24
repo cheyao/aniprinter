@@ -6,7 +6,7 @@ Made by: @Cyao
 
 Respository link: https://github.com/cheyao/aniprinter
 
-Hours so far: 36.5h
+Hours so far: 40.5h
 
 - [x] I have a bambu A1 mini and access to larger school printers
 
@@ -44,6 +44,8 @@ Currently the outline is 400mm x 410mm
 | 2?/02 | Finish Y axis                        | 3 hours | Yay |
 | 21/02 | Start of Z axis                      | 4 hours | Looks nice :P |
 | 22/02 | Finished Z axis!!!                   | 5 hours | Only printhead and electonics to go |
+| 23/02 | Working on head                      | 5 hours | Only printhead and electonics to go |
+| 24/02 | Tiny bit of research                 | 5 min   | Continuing... |
 
 ## BOM
 
@@ -76,7 +78,7 @@ At home:
 | T 5-hole connector for 3030      | 2x    | 5.3 (0.73) | [link](https://item.taobao.com/item.htm?abbucket=11&id=544614918944&ns=1&priceTId=2100c82d17400546772155039e0bc9&skuId=3446064654367&spm=a21n57.imgsearch.item.2.24db523cvsB3pO&xxc=taobaoSearch)
 | 8mm Linear Bearing Slot          | 2x    | 2.8 (0.38) | [link](https://item.taobao.com/item.htm?abbucket=1&id=560816782190&ns=1&priceTId=2100cffc17398839466045780e0960&skuId=5739999414554&spm=a21n57.1.item.3.6376523cQQFaVi&xxc=taobaoSearch) |
 | 8mm Linear Bearing               | 2x    | 1.08 (0.15)     | [link](https://item.taobao.com/item.htm?abbucket=1&id=596588093773&ns=1&priceTId=2100c89517402142905603273e0bfb&skuId=4150408797443&spm=a21n57.1.item.3.6c81523cVseea6&xxc=taobaoSearch) |
-| NEMA17 40mm Stepping Motor       | 3x    | 12 (1.58)       | [link](https://item.taobao.com/item.htm?spm=a1z0d.6639537/202410.item.d649664531631.108f7484TbQRF0&id=649664531631&from=cart&skuId=4856259154612) |
+| NEMA17 40mm Stepping Motor       | 4x    | 12 (1.58)       | [link](https://item.taobao.com/item.htm?spm=a1z0d.6639537/202410.item.d649664531631.108f7484TbQRF0&id=649664531631&from=cart&skuId=4856259154612) |
 | NEMA17 (Type 42) Mounting Plate  | 1x    | 2.1 (0.29)      | [link](https://item.taobao.com/item.htm?abbucket=1&id=568647933856&ns=1&priceTId=undefined&skuId=4371573359258&spm=a21n57.1.item.3.7900a7fapqotT3&xxc=taobaoSearch) |
 | 2GT Timing Pulley 20T 6W 5 Inner | 1x | 0.9 (0.12) | [link](https://item.taobao.com/item.htm?id=559194333476&ns=1&priceTId=2100c89017399710705031225e0c0e&skuId=4038283182652&spm=a21n57.1.item.49.45c96591qaELJI&xxc=ad_ztc) |
 | 2GT Idler 20T 6W 5 Inner         | 1x | 1.2 (0.17) | [link](https://item.taobao.com/item.htm?id=559682437946&scene=taobao_shop&skuId=3872290557039&spm=a312a.7700824.w5003-24755476481.2.34775439iyFkoo) |
@@ -89,7 +91,8 @@ At home:
 | E3D V6 hotend 24V50W (远程)      | 1x    | 22.8 (3.19)  | [link](https://item.taobao.com/item.htm?abbucket=11&id=695145988184&ns=1&priceTId=2100c82717397368248025070e0bef&skuId=4971593768755&spm=a21n57.1.hoverItem.2&xxc=taobaoSearch) |
 | BIGTREE SKR MINI E3 Mainboard    | 1x    | 203 (27.89)     | [link](https://item.taobao.com/item.htm?abbucket=1&id=660038613435&ns=1&priceTId=2100c89617399007846925287e0bd8&skuId=4887334024854&spm=a21n57.1.hoverItem.2&xxc=taobaoSearch) |
 | 3D touch                         | 3x    | 37 (5.10) | [link](https://item.taobao.com/item.htm?abbucket=1&id=594093806947&ns=1&priceTId=undefined&skuId=4712891285230&spm=0.0.hoverItem.2&xxc=taobaoSearch)
-| Extruder                         | 1x    | 24 (3.31) | [link](https://item.taobao.com/item.htm?id=632506457890&ns=1&priceTId=2100c82017402387359824113e093b&skuId=4760552082412&spm=a21n57.1.hoverItem.5&xxc=ad_ztc)
+| Extruder (Need NEMA17)           | 1x    | 12 (1.66) | [link](https://item.taobao.com/item.htm?id=632506457890&ns=1&priceTId=2100c82017402387359824113e093b&skuId=4760552082412&spm=a21n57.1.hoverItem.5&xxc=ad_ztc)
+| Fan 5015                         | 1x    | 9 (1.24) | [link](https://item.taobao.com/item.htm?abbucket=1&id=612218714981&ns=1&priceTId=2100c88d17403412805503924e0b13&skuId=4481934939240&spm=a21n57.1.item.2.280e647aW0KROS&xxc=taobaoSearch) |
 - 24V power
 - TFT
 
@@ -97,7 +100,7 @@ At home:
 
 Maybe ASA for 46 rmb
 
-Current total: 83.82 USD
+Current total: 85.06 USD
 
 Buy some M4 Bolts and nuts to be safe
 

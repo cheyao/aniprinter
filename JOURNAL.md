@@ -6,7 +6,7 @@ Made by: @Cyao
 
 Respository link: https://github.com/cheyao/aniprinter
 
-Hours so far: 48.5h
+Hours so far: 51.5h
 
 - [x] I have a bambu A1 mini and access to larger school printers
 
@@ -48,6 +48,7 @@ Currently the outline is 400mm x 410mm
 | 24/02 | Tiny bit of research                 | 5 min   | Continuing... |
 | 26/02 | Trying to get CFD work               | 6 hours | I hate openfoam... |
 | 28/02 | More mats                            | 2 hours | Ahh taobao locked my account |
+| 28/02 | PCB                                  | 3 hours | :D |
 
 ## BOM
 
@@ -66,8 +67,8 @@ At home:
 | 2 430mmx8mm 2 420x8mm Linear rods    | 4x    | 8/m (1.15)| [link](https://item.taobao.com/item.htm?abbucket=1&id=705312506425&ns=1&priceTId=2100c82e17401306699465479e0c06&skuId=5135587099266&spm=a21n57.1.item.7.1181523cc0tzsd&xxc=taobaoSearch) |
 | PTFE tubes                       | 3m    | 1.2/m (0.17) | [link](https://item.taobao.com/item.htm?abbucket=1&id=815502974789&ns=1&priceTId=2100c88a17398219804387041e0932&skuId=5514534761577&spm=a21n57.1.hoverItem.4&xxc=taobaoSearch) |
 | M3 35mm Sink Bolts               | 4x   | 1.1 for 20 (0.17) | [link](https://detail.tmall.com/item.htm?abbucket=16&id=729847299973&rn=dc1b51c7fe76c31b32c97eadb36cf85a&scene=taobao_shop&skuId=5059228621742&spm=a312a.7700824.w5003-25220709902.4.6cf06b74iXZ2vc) |
-| M3 8mm Sink Bolts               | 4x   | 1.1 for 20 (0.17) | [link](https://detail.tmall.com/item.htm?abbucket=16&id=729847299973&rn=dc1b51c7fe76c31b32c97eadb36cf85a&scene=taobao_shop&skuId=5059228621742&spm=a312a.7700824.w5003-25220709902.4.6cf06b74iXZ2vc) |
-| M4 22mm Sink Bolts               | 4x   | 1.1 for 20 (0.17) | [link](https://detail.tmall.com/item.htm?abbucket=16&id=729847299973&rn=dc1b51c7fe76c31b32c97eadb36cf85a&scene=taobao_shop&skuId=5059228621742&spm=a312a.7700824.w5003-25220709902.4.6cf06b74iXZ2vc) |
+| M3 8mm Sink Bolts               | 4x   | 3.4 for 100 (0.47) | [link](https://detail.tmall.com/item.htm?abbucket=16&id=729847299973&rn=dc1b51c7fe76c31b32c97eadb36cf85a&scene=taobao_shop&skuId=5059228621742&spm=a312a.7700824.w5003-25220709902.4.6cf06b74iXZ2vc) |
+| M4 25mm Sink Bolts               | 2x   | 2.9 for 20 (0.40) | [link](https://detail.tmall.com/item.htm?abbucket=16&id=729847299973&rn=dc1b51c7fe76c31b32c97eadb36cf85a&scene=taobao_shop&skuId=5059228621742&spm=a312a.7700824.w5003-25220709902.4.6cf06b74iXZ2vc) |
 | M3 10mm Bolts                    | 20x    | 2.7 for 50 (0.37) | [link](https://detail.tmall.com/item.htm?abbucket=16&id=729847299973&rn=dc1b51c7fe76c31b32c97eadb36cf85a&scene=taobao_shop&skuId=5059228621742&spm=a312a.7700824.w5003-25220709902.4.6cf06b74iXZ2vc) |
 | M3 16mm Bolts                    | 1x    | 2.6 for 50 (0.36) | [link](https://detail.tmall.com/item.htm?abbucket=16&id=729847299973&rn=dc1b51c7fe76c31b32c97eadb36cf85a&scene=taobao_shop&skuId=5059228621742&spm=a312a.7700824.w5003-25220709902.4.6cf06b74iXZ2vc) |
 | M3 22mm Bolts                    | 9x    | 3.5 for 50 (0.48) | [link](https://detail.tmall.com/item.htm?abbucket=16&id=729847299973&rn=dc1b51c7fe76c31b32c97eadb36cf85a&scene=taobao_shop&skuId=5059228621742&spm=a312a.7700824.w5003-25220709902.4.6cf06b74iXZ2vc) |
@@ -100,13 +101,20 @@ At home:
 | 3D Printer Holder                | 1x    | 69 (9.47) | [link](https://item.taobao.com/item.htm?abbucket=11&id=704269813634&ns=1&priceTId=2100c88d17407601577377238e0943&skuId=4959504069707&spm=a21n57.1.item.4&xxc=taobaoSearch) |
 | 10mm Diam 20mm Height Spring     | 4x    | 1 (0.14)  | [link](https://item.taobao.com/item.htm?id=721543036692&ns=1&priceTId=undefined&skuId=5020222620818&spm=a21n57.1.item.4&xxc=ad_ztc) |
 | 24V 400W 16.5A Power Supply      | 1x    | 50 (6.87) | [link](https://item.taobao.com/item.htm?abbucket=11&id=616623109443&ns=1&priceTId=2100c88e17407665259624703e0bf7&skuId=5078909843522&spm=a21n57.1.hoverItem.10&xxc=taobaoSearch) |
+| Round LCD                        | 1x    | 14 (1.92) | [link](https://item.taobao.com/item.htm?abbucket=11&id=834424049622&ns=1&priceTId=2147841917408153090834368ec02c&spm=a21n57.1.hoverItem.29&xxc=taobaoSearch) |
 - TFT
+
+PCB:
+- 1x AW9364
+- 1x 0.3K-HX-15PWB
+- 1x 7805
+- 1x WJ500V-5.08-2P
 
 - 1x mmu
 
 Maybe ASA for 46 rmb
 
-Current total: 93.66 USD
+Current total: 94.53 USD
 
 3mm depth M3 blocks
 

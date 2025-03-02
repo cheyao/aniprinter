@@ -88,7 +88,7 @@ At home:
 | NEMA17 (Type 42) Mounting Plate  | 4x    | 2.1 (0.29)      | [link](https://item.taobao.com/item.htm?abbucket=1&id=568647933856&ns=1&priceTId=undefined&skuId=4371573359258&spm=a21n57.1.item.3.7900a7fapqotT3&xxc=taobaoSearch) |
 | 2GT Timing Pulley 20T 6W 5 Inner | 1x | 0.9 (0.12) | [link](https://item.taobao.com/item.htm?id=559194333476&ns=1&priceTId=2100c89017399710705031225e0c0e&skuId=4038283182652&spm=a21n57.1.item.49.45c96591qaELJI&xxc=ad_ztc) |
 | 2GT Idler 20T 6W 5 Inner         | 1x | 1.2 (0.17) | [link](https://item.taobao.com/item.htm?id=559682437946&scene=taobao_shop&skuId=3872290557039&spm=a312a.7700824.w5003-24755476481.2.34775439iyFkoo) |
-| 2GT Rubber Belt                  | 1m | 1.25 (0.18) | [link](https://item.taobao.com/item.htm?abbucket=1&id=558903222636&ns=1&priceTId=2100c81317400865357297716e0bfe&skuId=4789763202306&spm=a21n57.1.hoverItem.15&xxc=taobaoSearch) |
+| 2GT Rubber Belt                  | 2m | 1.25 (0.18) | [link](https://item.taobao.com/item.htm?abbucket=1&id=558903222636&ns=1&priceTId=2100c81317400865357297716e0bfe&skuId=4789763202306&spm=a21n57.1.hoverItem.15&xxc=taobaoSearch) |
 | 8mm Lead Screw 400mm             | 2x | 8.3 (1.14) | [link](https://item.taobao.com/item.htm?id=559693268692&ns=1&priceTId=2100c82f17401356787583194e0bec&skuId=3872444753729&spm=a21n57.1.item.5.6520523cC2c6nY&xxc=ad_ztc) |
 | 5x8 Lead Screw Adapter           | 2x | 0.9 (0.12) | [link](https://item.taobao.com/item.htm?spm=a1z0d.6639537/202410.item.d558851617070.108f7484TbQRF0&id=558851617070&from=cart&skuId=4040068966050) |
 | KFL08 Lead Screw Holder          | 2x | 2.43 (0.34) | [link](https://detail.tmall.com/item.htm?abbucket=1&id=748242575487&ns=1&priceTId=2100c88917401636384956464e0c03&skuId=5330785675422&spm=a21n57.1.hoverItem.6&utparam=%7B%22aplus_abtest%22%3A%226f0e90a5689218ad92e73b63ba905599%22%7D&xxc=taobaoSearch) |
@@ -107,7 +107,7 @@ At home:
 - 1x mmu
 Maybe ASA for 46 rmb
 
-Current total: 96.40 USD
+Current total: 96.58 USD
 
 PCB:
 - 1x AW9364
@@ -137,6 +137,12 @@ I will ask my dad for shipping
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ceb35f161df36bc9db83fb9d57d96472741512c7_image.png)
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/960a89a2b9be9b4ad822ba7ce1cd76ae00c1d078_image.png)
+
+02/03/2024 Base done!:
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/745027e83d862b0f3493a0ada2597c280b9d475a_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6d07cfdd45e382686cc29fdb3cccf57de266b807_image.png)
 
 ## Links:
 - Motherboard: https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V3.0/Hardware/BTT%20E3%20SKR%20MINI%20V3.0_PIN.pdf

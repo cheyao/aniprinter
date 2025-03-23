@@ -6,7 +6,7 @@ Made by: @Cyao
 
 Respository link: https://github.com/cheyao/aniprinter
 
-Hours so far: 58.5h
+Hours so far: 60.5h
 
 - [x] I have a bambu A1 mini and access to larger school printers
 
@@ -51,6 +51,7 @@ Currently the outline is 400mm x 410mm
 | 01/03 | PCB                                  | 3 hours | :D |
 | 02/03 | CFD + X axis                         | 6 hours | Fuck yeah! |
 | 03/03 | Counting screws                         | 1 hour  | I lost track :heavysob: |
+| ~ | Getting printer & approved + planning | 2 hours | Welp |
 
 ## BOM
 
@@ -107,11 +108,12 @@ At home:
 | M5 T-Nuts for 3030               | 10x   | 1.4 for 50 (0.19) | [link](https://item.taobao.com/item.htm?abbucket=1&id=720521078724&ns=1&priceTId=2100c82317398927757001065e0bf9&skuId=5192323987974&spm=a21n57.1.item.3.447f523cP1MZ65&xxc=taobaoSearch) |
 | M6 12mm Bolts                    | 42x   | 3.4 for 20 (0.45) | [link](https://detail.tmall.com/item.htm?from=cart&id=635755541429&skuId=4555949761448&spm=a1z0d.6639537%2F202410.item.d635755541429.5d357484CFoQER) |
 | M6 T-Nuts for 3030               | 42x   | 1.4 for 50 (0.19) | [link](https://item.taobao.com/item.htm?abbucket=1&id=720521078724&ns=1&priceTId=2100c82317398927757001065e0bf9&skuId=5192323987974&spm=a21n57.1.item.3.447f523cP1MZ65&xxc=taobaoSearch) |
-- TFT
-- 1x mmu
 Maybe ASA for 46 rmb
+- 1x mmu
 
 Current total: 99.24 USD
+
+TODO: CABLES!!!!!
 
 PCB:
 - 1x AW9364

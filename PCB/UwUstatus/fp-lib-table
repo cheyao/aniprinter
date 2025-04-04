@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "d")(type "KiCad")(uri "/home/cyao/Downloads")(options "")(descr ""))
+)
